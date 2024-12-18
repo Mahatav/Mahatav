@@ -1,4 +1,4 @@
-<div style="background-color: black; color: white; padding: 10px;">
+<div style="background-color: black; padding: 10px;">
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <div>

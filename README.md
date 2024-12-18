@@ -15,10 +15,10 @@ table, th, td {
   <!-- Stats and Top Languages Section -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mahatav&theme=midnight-purple&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height=500 align="center" src="https://github-readme-stats.vercel.app/api?username=Mahatav&theme=midnight-purple&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahatav&hide_progress=true&theme=midnight-purple&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahatav&hide_progress=true&theme=midnight-purple" />
 </a>
 
   <!-- WakaTime Stats -->

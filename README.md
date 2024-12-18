@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-right: 10px;">
-  <span style="color: #8c40e3; font-family: sans-serif; font-weight: bold; font-size: 200px;">Mahatav (Manu) Arora</span>
+  <h1>Mahatav Arora</h1> 
   <img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-left: 10px;">
 </div>
 

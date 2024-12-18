@@ -9,11 +9,8 @@ table, th, td {
     border: none; 
 }
 </style>
-
-| Column 1 | Column 2 |
-|---|---|
-| Cell 1 | Cell 2 |
-| Cell 3 | Cell 4 |
+|---|---|---|
+| <div id="element1" style="display:inline-block; margin-right: 10px;"> <img src="./images/ma.png" width="150" height="150" alt="Ma Picture"/> </div> | <div id="element2" style="display:inline-block;"> <h4 style="color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h4> </div> | <div id="element1" style="display:inline-block; margin-left: 10px;"> <img src="./images/ma.png" width="150" height="150" alt="Ma Picture"/> </div> |
 
   <!-- Stats and Top Languages Section -->
   <div style="margin-top: 10px;">

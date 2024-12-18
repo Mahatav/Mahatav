@@ -2,7 +2,7 @@
 
   <!-- Header with Image and Name -->
 
-<table border="0" style="border: 0px; border-spacing: 0px;"> 
+<table style="border: 0px; border-spacing: 5px;"> 
   <tr>
     <td style="border: 0px;"><img src="./images/ma.png" alt="Ma Picture" width="250" height="250"></td>
     <td style="border: 0px;"><h2 style="font-size: 24px; font-weight: bold; color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h2></td>

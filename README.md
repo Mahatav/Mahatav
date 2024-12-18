@@ -5,7 +5,7 @@
           <img src="./images/ma.png" width="150" height="150" alt="Profile Picture"/>
       </div>
       <div>
-          <h1 style="color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h1>
+          <h3 style="color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h1>
       </div>
       <div>
           <img src="./images/ma.png" width="150" height="150" alt="Profile Picture"/>

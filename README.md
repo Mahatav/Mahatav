@@ -2,13 +2,13 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
     <div>
-        <img src="./images/ma.png" width="250" height="250" alt=""/>
+        <img src="./images/ma.png" width="150" height="150" alt=""/>
     </div>
     <div>
         <h1 style="color: #8c40e3; font-family: sans-serif;"">My name is Mahatav (Manu) Arora</h1>
     </div>
     <div>
-        <img src="./images/ma.png" width="250" height="250" alt=""/>
+        <img src="./images/ma.png" width="150" height="150" alt=""/>
     </div>
 </div>
 

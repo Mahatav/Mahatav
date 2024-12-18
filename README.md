@@ -1,5 +1,5 @@
 <!-- Header with Image and Name -->
-<img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/> <img src="./images/name.png" alt="name" width="400" height="250"/> <img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/>
+<img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/> <img src="./images/name.png" alt="name" width="300" height="250"/> <img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/>
 
 <!-- Stats and Top Languages Section -->
 

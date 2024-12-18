@@ -13,14 +13,13 @@ table, th, td {
 |---|---|---|
 
   <!-- Stats and Top Languages Section -->
-  <div style="margin-top: 10px;">
-      <div id="element1" style="display:inline-block; margin-right: 10px;">
-          <img src="https://github-readme-stats.vercel.app/api?username=Mahatav&theme=midnight-purple&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
-      </div>
-      <div id="element2" style="display:inline-block;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahatav&hide_progress=true&theme=midnight-purple" alt="Top Languages"/>
-      </div>
-  </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mahatav&theme=midnight-purple&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahatav&hide_progress=true&theme=midnight-purple&card_width=320" />
+</a>
 
   <!-- WakaTime Stats -->
   <div style="margin-top: 10px;">

@@ -9,8 +9,10 @@ table, th, td {
     border: none; 
 }
 </style>
-| <div id="element1" style="display:inline-block; margin-right: 10px;"> <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> </div> | <div id="element2" style="display:inline-block;"> <h2 style="color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h4> </div> | <div id="element1" style="display:inline-block; margin-left: 10px;"> <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> </div> |
+
+| Element 1 (Left) | Element 2 (Center) | Element 3 (Right) |
 |---|---|---|
+| <div id="element1" style="display:inline-block; margin-right: 10px;"> <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> </div> | <div id="element2" style="display:inline-block;"> <h2 style="color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h4> </div> | <div id="element1" style="display:inline-block; margin-left: 10px;"> <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> </div> |
 
   <!-- Stats and Top Languages Section -->
 

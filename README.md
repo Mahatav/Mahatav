@@ -2,11 +2,13 @@
 
   <!-- Header with Image and Name -->
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-right: 10px;">
-  <h1>Mahatav Arora</h1> 
-  <img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-left: 10px;">
-</div>
+<table border="0">
+  <tr>
+    <td><img src="./images/ma.png" alt="Ma Picture" width="250" height="250"></td>
+    <td><span style="font-size: 24px; font-weight: bold; color: your_color;">Your Text Here</span></td>
+    <td><img src="./images/ma.png" alt="Ma Picture" width="250" height="250"></td>
+  </tr>
+</table>
 
   <!-- Stats and Top Languages Section -->
 

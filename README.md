@@ -10,16 +10,10 @@ table, th, td {
 }
 </style>
 <p float="left">
-  <div align = "left"> 
-    <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> 
-  </div>
-  <div align = "center"> 
-    <h2 style="color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h4> 
-  </div> 
-  <div align = "right"> 
-    <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> 
-  </div>
-</div>
+  <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> 
+  <h2 style="color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h4> 
+  <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> 
+</p>
   <!-- Stats and Top Languages Section -->
 
 <a href="https://github.com/Mahatav/github-readme-stats">

@@ -13,7 +13,7 @@
 </div>
 
 
-<div style="display: flex; gap: 10px; margin-top: 10px">
+<div style="display: flex; gap: 1px; margin-top: 10px">
     <div style="display: inline-block;">
         <img src="https://github-readme-stats.vercel.app/api?username=Mahatav&theme=midnight-purple&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged prs_merged_percentage" alt="" />
     </div>

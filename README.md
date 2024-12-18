@@ -1,19 +1,9 @@
 <div style="background-color: black; padding: 10px;">
 
   <!-- Header with Image and Name -->
-<style>
-table { 
-    border-collapse: collapse; 
-}
-table, th, td { 
-    border: none; 
-}
-</style>
-<p float="left">
-  <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> 
-  <h2 style="color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h4> 
-  <img src="./images/ma.png" width="250" height="250" alt="Ma Picture"/> 
-</p>
+
+![alt-text-1](./images/ma.png) ##Mahatav (Manu) Arora ![alt-text-1](./images/ma.png)
+
   <!-- Stats and Top Languages Section -->
 
 <a href="https://github.com/Mahatav/github-readme-stats">

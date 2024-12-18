@@ -2,7 +2,7 @@
 
   <!-- Header with Image and Name -->
 
-<img src="./images/ma.png" alt="Ma Picture" width="250" height="250"> ##Mahatav (Manu) Arora <img src="./images/ma.png" alt="Ma Picture" width="250" height="250">
+<img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-right: 10px;"> <h3>Mahatav Arora</h3> <img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-left: 10px;">
 
   <!-- Stats and Top Languages Section -->
 

@@ -2,7 +2,11 @@
 
   <!-- Header with Image and Name -->
 
-<img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-right: 10px;">                          <img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-left: 10px;">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-right: 10px;">
+  <span style="color: your_color; font-weight: bold;">Mahatav Arora</span>
+  <img src="./images/ma.png" alt="Ma Picture" width="250" height="250" style="margin-left: 10px;">
+</div>
 
   <!-- Stats and Top Languages Section -->
 

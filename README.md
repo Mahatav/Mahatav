@@ -18,10 +18,6 @@
 </a>
 
   <!-- WakaTime Stats -->
-  <div style="margin-top: 10px;">
-      <a href="https://github.com/Mahatav/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahatav&theme=midnight-purple" alt="WakaTime Stats"/>
-      </a>
-  </div>
-
-</div>
+<a href="https://github.com/Mahatav/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahatav&theme=midnight-purple" alt="WakaTime Stats"/>
+</a>

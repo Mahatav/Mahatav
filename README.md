@@ -1,6 +1,6 @@
 <!-- Header with Image and Name -->
 
-<table style=" border: 2px solid #0d1117;">
+<table style="border-collapse: collapse; border: 2px solid #0d1117;">
   <tr>
     <td style="border: none;"><img src="./images/ma.png" alt="Ma Picture" width="250" height="250"></td>
     <td style="border: none;"><h2 style="font-size: 24px; font-weight: bold; color: #8c40e3; font-family: sans-serif;">Mahatav (Manu) Arora</h2></td>

@@ -12,13 +12,17 @@
 <br>
 
 <!-- WakaTime Stats -->
-<a href="https://github.com/Mahatav/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahatav&theme=apprentice" alt="WakaTime Stats"/>
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahatav&theme=apprentice&layout=compact"
+      alt="WakaTime Stats"
+    />
+  </a>
+</p>
 
 <br>
 <br>
-
 <!-- Github Profile Trophy -->
 <p align="github-profile-trophy">
   <a href="https://github.com/ryo-ma/github-profile-trophy">

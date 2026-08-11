@@ -1,11 +1,24 @@
 <!-- Header with Image and Name -->
-<img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/> <img src="./images/MahatavArora.png" alt="name" width="300" height="250"/> <img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/>
+<img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/>
+<img src="./images/MahatavArora.png" alt="name" width="300" height="250"/>
+<img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/>
 
-<a href="https://github.com/Mahatav/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahatav&theme=apprentice&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<!-- GitHub Stats -->
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api?username=Mahatav&theme=apprentice&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    alt="Mahatav's GitHub Stats"
+  />
 </a>
-<a href="https://github.com/Mahatav/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahatav&hide_progress=true&theme=apprentice" />
+
+<!-- Top Languages -->
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mahatav&hide_progress=true&theme=apprentice"
+    alt="Mahatav's Top Languages"
+  />
 </a>
 
 <br>
@@ -13,9 +26,9 @@
 
 <!-- WakaTime Stats -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Mahatav&theme=apprentice&layout=compact"
+      src="https://github-stats-extended.vercel.app/api/wakatime?username=Mahatav&theme=apprentice&layout=compact"
       alt="WakaTime Stats"
     />
   </a>
@@ -23,10 +36,14 @@
 
 <br>
 <br>
-<!-- Github Profile Trophy -->
-<p align="github-profile-trophy">
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mahatav&theme=apprentice">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Mahatav&theme=apprentice"
+      alt="GitHub Profile Trophy"
+    />
   </a>
 </p>
 

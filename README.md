@@ -1,17 +1,9 @@
 <!-- Header with Image and Name -->
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <img src="./images/ma.png" alt="Ma" width="140">
-    </td>
-    <td align="center" width="360">
-      <img src="./images/MahatavArora.png" alt="Mahatav Arora" width="320">
-    </td>
-    <td align="center" width="180">
-      <img src="./images/ma.png" alt="Ma" width="140">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./images/ma.png" alt="Ma" width="120" align="middle">
+  <img src="./images/MahatavArora.png" alt="Mahatav Arora" width="300" align="middle">
+  <img src="./images/ma.png" alt="Ma" width="120" align="middle">
+</div>
 
 <br>
 

@@ -1,7 +1,17 @@
 <!-- Header with Image and Name -->
-<img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/>
-<img src="./images/MahatavArora.png" alt="name" width="300" height="250"/>
-<img src="./images/ma.png" alt="Ma Picture" width="250" height="250"/>
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="./images/ma.png" alt="Ma" width="180">
+    </td>
+    <td align="center" width="360">
+      <img src="./images/MahatavArora.png" alt="Mahatav Arora" width="320">
+    </td>
+    <td align="center" width="220">
+      <img src="./images/ma.png" alt="Ma" width="180">
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Stats -->
 <a href="https://github.com/stats-organization/github-stats-extended">
